@@ -1,0 +1,15 @@
+(a) id
+uid=1000(emiliya) gid=1000(emiliya) группы=1000(emiliya),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),120(lpadmin),131(lxd),132(sambashare)
+(b) date
+Чт 10 сен 2020 14:53:32 MSK
+(c) pwd
+/home/emiliya/Рабочий стол/папка/basic_programming_2020/reports
+(d) ls/ls -1/ls -a
+RED.md
+файл.Иванова.txt
+RED.md
+файл.Иванова.txt
+.
+..
+RED.md
+файл.Иванова.txt
